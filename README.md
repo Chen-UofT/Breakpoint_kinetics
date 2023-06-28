@@ -17,7 +17,7 @@
 
 4. The trichloramine concentration was not validated.
 ## Reference
-Reactions Between Aqueous Chlorine and Ammonia: A Predictive Model, Xin Huang, Northeastern University, MA (2008)
+Reactions Between Aqueous Chlorine and Ammonia: A Predictive Model, Xin Huang, Northeastern University, MA (2008)<br />
 Tianyi Chen, Erin Mackey, Susan Andrews, Ron Hofmann. (2023) Kinetics of chlorine and chloramine reactions in reverse osmosis permeate and their impact on radical formation during UV advanced oxidation for water reuse
 ## Questions?
 Contact me at tianyichen626@gmail.com
